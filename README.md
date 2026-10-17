@@ -6,6 +6,16 @@ Official PyTorch implementation of the paper:
 
 [Paper](https://link.springer.com/article/10.1007/s10586-026-06649-x?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20261016&utm_content=10.1007%2Fs10586-026-06649-x)
 
+## 📌 Abstract
+Magnetic Resonance Imaging is indispensable in clinical practice, but the synthesis of T1- and T2-weighted images remains a complex
+problem. Existing methods often fail to fully exploit inter-task relationships, thereby limiting information sharing and integration. To
+address this limitation, a novel framework integrating convolutional neural networks (CNNs) with Transformer architectures is
+proposed. First, low- and high-frequency components are extracted by a CNN to represent coarse and fine structural details.
+Subsequently, a Transformer module models global contextual dependencies, enhancing the generation of realistic image
+transformations. A key component is the Task Transformer module, designed to promote efficient information sharing and integration
+across tasks. Results from experiments confirm that the method exceeds the performance of existing approaches in both structural and
+textural detail reconstruction, while sustaining superior image quality. This work provides a robust solution for enhancing MRI image
+transformation, with significant implications for clinical diagnostics and research.
 ----
 1. [Requirements](#Requirements)
 2. [Code Structure](#Structure)
