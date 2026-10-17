@@ -68,7 +68,7 @@ Please use the following example settings to test our model:
 
 Please use the "Yaml/HLnet.yaml" configuration file to train your model:
 
-   ```python train.py```
+   ```nohup python  -u train.py > train.log 2>&1 &```
 
 
 ## TODO
