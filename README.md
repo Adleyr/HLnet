@@ -10,6 +10,7 @@ Official PyTorch implementation of the paper:
 
 We propose a CNN-Transformer framework for MRI T1/T2-weighted image synthesis. By extracting multi-frequency features via CNN and modeling global dependencies with a Task Transformer, the method improves cross-task information sharing and achieves superior structural and textural reconstruction compared to existing approaches.
 
+![Result](result.png)
 ----
 1. [Requirements](#Requirements)
 2. [Code Structure](#Structure)
