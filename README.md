@@ -1,4 +1,4 @@
-# HLnet: Medical Image Synthesis by Integrating Transformer and CNN with Effective Fusion of High and Low-Frequency Information
+# HLnet: cross-modal transformer-CNN hybrid architecture for medical image synthesis via hierarchical frequency integration
 
 
 
