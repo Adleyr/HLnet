@@ -4,7 +4,7 @@ Official PyTorch implementation of the paper:
 **"HLnet: cross-modal transformer-CNN hybrid architecture for medical image synthesis via hierarchical frequency integration"**  
 *Accepted at Cluster Computing *
 
-[![Paper]([https://img.shields.io/badge/Paper-ISBI2026-blue](https://link.springer.com/article/10.1007/s10586-026-06649-x?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20261016&utm_content=10.1007%2Fs10586-026-06649-x))]([https://github.com/](https://link.springer.com/article/10.1007/s10586-026-06649-x?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20261016&utm_content=10.1007%2Fs10586-026-06649-x))
+[Paper](https://link.springer.com/article/10.1007/s10586-026-06649-x?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20261016&utm_content=10.1007%2Fs10586-026-06649-x)
 
 ----
 1. [Requirements](#Requirements)
