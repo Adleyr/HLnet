@@ -1,7 +1,8 @@
 # HLnet: cross-modal transformer-CNN hybrid architecture for medical image synthesis via hierarchical frequency integration
 
-
-
+Official PyTorch implementation of the paper:  
+**"HLnet: cross-modal transformer-CNN hybrid architecture for medical image synthesis via hierarchical frequency integration"**  
+*Accepted at Cluster Computing 2026.*
 
 ----
 1. [Requirements](#Requirements)
